@@ -15,6 +15,3 @@ your final model and check its accuracy.
 # 2-Recommend with the best model:
 Your model is now ready to be recommended to users. Use a sample-recommendation function and recommend 3
 movies to 4 user.
-# 3-Conclusion:
-Explain what you’ve learned in this homework assignment and the topics of the models, model evaluation, and
-recommender functions.
